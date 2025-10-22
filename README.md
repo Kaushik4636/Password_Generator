@@ -25,7 +25,7 @@ This project implements a **random password generator** in Python. It allows use
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/Kaushik4636/Password_Generator.git
    ```
 
 2. **Navigate to the project directory**:
